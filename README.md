@@ -1,4 +1,4 @@
-# [Magento 2 Plugin Sort Order](https://magefan.com/blog/prioritizing-plugins-in-magento-2)
+# [Magento 2 Plugin](https://magefan.com/blog/create-plugin-in-magento-2) Sort Order
 
 ## Installation
 
